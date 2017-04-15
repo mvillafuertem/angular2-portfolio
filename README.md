@@ -1,4 +1,5 @@
-# A
+# Angular2 Portfolio
+[![Build Status](https://travis-ci.org/mvillafuertem/angular2-portfolio.svg?branch=master)](https://travis-ci.org/mvillafuertem/angular2-portfolio)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
