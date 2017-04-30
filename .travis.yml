@@ -29,7 +29,3 @@ env:
     - CHROME_BIN=chromium-browser
 before_script:
   - sh -e /etc/init.d/xvfb start
-install:
-  - npm install
-script:
-  - npm run lint
